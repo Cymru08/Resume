@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact details</title>
+</head>
+<body>
+   <h1>Contact Details<h1> 
+    <h3>Name: Gareth Hammond<h3>
+    <h3>Phone Number: 07597 803 619<h3>
+    <h3>Address: <br>
+        584 Llangyfelach road, <br>
+        Treboeth,<br>
+        Swansea,<br>
+        SA5 9EW
+</body>
+</html>
